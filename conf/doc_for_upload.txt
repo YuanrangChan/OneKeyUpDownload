@@ -1,0 +1,13 @@
+# 测试实例名(# 代表注释
+[192.168.1.102]
+myfolder/SVNClient.py|/root\testdir
+myfolder      |       /root/testdir
+ SVNClient.py      |       /root/testdir
+# wx
+#[10.202.94.176]
+pullGit.bat     |	/home/appdeploy/
+
+#[10.202.94.177]
+#Dir|/home/appdeploy/
+
+

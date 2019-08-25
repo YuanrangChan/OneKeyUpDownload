@@ -1,0 +1,4 @@
+[192.168.187.129]
+#xxl-job-master.zip|/app/xxl-job-master.zip
+
+eladmin-system-2.0.jar|/app/PyOneKeyUpDownloadTest/eladmin-system-2.0.jar

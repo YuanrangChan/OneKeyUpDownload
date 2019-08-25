@@ -1,0 +1,12 @@
+[192.168.187.129]
+
+#pwd
+#cd /app/eladmin/bin;
+#./start.sh
+
+#/app/eladmin/bin/start.sh
+
+#scp xxx.zip appdeploy@192.168.187.129:~/
+
+cd /app/
+touch testfiel.txt

@@ -1,0 +1,11 @@
+# 测试实例名(# 代表注释
+#[192.168.1.103]
+#/home/MariaDB-10.0.19-centos7-x86_64-test.rpm
+
+#[192.168.1.102]
+#/home/testacc/testfile
+
+[192.168.187.129]
+/app/PyOneKeyUpDownloadTest/eladmin-system-2.0.jar
+
+
